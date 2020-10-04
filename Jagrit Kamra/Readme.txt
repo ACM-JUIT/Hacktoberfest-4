@@ -13,7 +13,7 @@ Vote: Alice
 Vote: Bob
 Vote: Charlie
 Vote: Alice
-Alice
+Alice won!
 
 
 $ ./elections Alice Bob Charlie
