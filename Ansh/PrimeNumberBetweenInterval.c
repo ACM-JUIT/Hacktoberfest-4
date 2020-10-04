@@ -1,3 +1,7 @@
+/* This program is written to find out prime numbers between two intervals(entered by the user) 
+   Written by Ansh Agrawal
+   Date : 28/09/2020
+*/
 #include<stdio.h>
 int main()
 {
