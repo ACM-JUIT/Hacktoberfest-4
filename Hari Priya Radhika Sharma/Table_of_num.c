@@ -1,3 +1,4 @@
+//This program is to print the multiplication table of a number entered by the user.
 #include <stdio.h>
 int mult(int num)
 {
@@ -9,7 +10,7 @@ int main()
 {
     int n;
     printf("Enter the number of which you want to print table of\n");
-    scanf("%d", &n);
+    scanf("%d", &n); //Enter the number.
     mult(n);
     return 0;
 }
