@@ -1,0 +1,15 @@
+#include<stdio.h>
+int main()
+{
+    int a,b,c,d;
+    printf("enter all the angles in degrees a,b and c:");
+    scanf("%d%d%d",&a,&b,&c);
+    d=a+b+c;
+    if(d==180)
+        printf("triangle is valid");
+    else
+         printf("triangle is not valid ");
+
+    return 0;
+
+}
